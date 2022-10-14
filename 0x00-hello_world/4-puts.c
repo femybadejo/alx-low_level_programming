@@ -1,6 +1,7 @@
 #include <stdio.h>
-/** 
- * yuna dey craze
+/*
+ * main - entry
+ * return : 0
  */
 int main(void)
 {
