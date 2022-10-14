@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/** 
+ * yuna dey craze
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
